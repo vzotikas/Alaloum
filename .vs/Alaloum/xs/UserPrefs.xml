@@ -1,6 +1,30 @@
 ﻿<Properties StartupConfiguration="{71180997-2664-4365-9793-43EE738184D0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Alaloum FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Alaloum/Alaloum/MainPage.xaml">
+    <Files>
+      <File FileName="Alaloum/Alaloum/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Alaloum/Alaloum/MainPage.xaml" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alaloum" expanded="True">
+            <Node name="Alaloum" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Alaloum.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Alaloum.Android FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Alaloum.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.SelectDevice" />
 </Properties>
